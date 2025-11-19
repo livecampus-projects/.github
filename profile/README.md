@@ -49,7 +49,6 @@ Développeur Full Stack & Data en formation
 
 ## 📬 Contact
 Pour toute question :  
-📧 *[Ajoute ton email si tu veux]*  
 🔗 GitHub : https://github.com/AntoineMasia
 
 ---
